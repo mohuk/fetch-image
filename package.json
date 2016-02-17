@@ -13,6 +13,9 @@
     "http",
     "xhr"
   ],
+  "files": [
+    "lib/index.js"
+  ],
   "author": "Mohammad Umair Khan",
   "license": "MIT",
   "dependencies": {
