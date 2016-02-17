@@ -1,5 +1,5 @@
 {
-  "name": "fetch-image",
+  "name": "ng-fetch-image",
   "version": "0.1.0",
   "description": "Angular JS directive to fetch images via XHR and configs",
   "main": "lib/index.js",
