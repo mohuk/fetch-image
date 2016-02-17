@@ -1,0 +1,21 @@
+{
+  "name": "fetch-image",
+  "version": "0.0.1",
+  "description": "Angular JS directive to fetch images via XHR and configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "JS",
+    "directive",
+    "http",
+    "xhr"
+  ],
+  "author": "Mohammad Umair Khan",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
