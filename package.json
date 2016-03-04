@@ -14,7 +14,8 @@
     "xhr"
   ],
   "files": [
-    "lib/index.js"
+    "lib/index.js",
+    "dist/index.js"
   ],
   "author": "Mohammad Umair Khan",
   "license": "MIT",
